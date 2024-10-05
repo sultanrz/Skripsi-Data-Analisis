@@ -158,9 +158,9 @@ Setelah data dianalisis, langkah berikutnya adalah melakukan pembersihan data (d
 
 Pada tahap ini, data diubah menjadi bentuk yang siap digunakan untuk analisis lebih lanjut. Transformasi ini mempersiapkan data untuk proses clustering sehingga hasil analisis lebih akurat.
 
-Berikut adalah hasil dari proses pembersihan dan transformasi yang disimpan dalam file **Hasil Transformasi.xlsx**:
+Berikut adalah hasil dari proses pembersihan dan transformasi yang disimpan dalam file **Hasil Transformasi.csv**:
 
-- [Download Hasil Transformasi](./Data%20Hasil/Hasil%20Transformasi.xlsx)
+- [Download Hasil Transformasi](./Data%20Hasil/Hasil%20Transformasi.csv)
 
 ### 3. Hasil Clustering
 Setelah data dibersihkan dan dipersiapkan, metode **K-Means Clustering** diterapkan untuk membagi buku ke dalam 3 cluster, yaitu:
@@ -172,7 +172,7 @@ Algoritma K-Means bekerja dengan menghitung jarak antara setiap titik data (buku
 
 Berikut adalah file hasil clustering:
 
-- [Download Hasil Clustering](./Data%20Hasil/penentuan_cluster.xlsx)
+- [Download Hasil Clustering](./Data%20Hasil/penentuan_cluster.csv)
 
 ### 4. Evaluasi Cluster
 Setelah hasil clustering diperoleh, langkah selanjutnya adalah mengevaluasi kualitas cluster yang terbentuk. Beberapa metrik evaluasi yang digunakan meliputi:
