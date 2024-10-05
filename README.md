@@ -147,7 +147,7 @@ Dataset ini membantu dalam mengidentifikasi buku mana yang sering dipinjam, wakt
 
 Berikut adalah file **data.csv** yang berisi data mentah yang akan dianalisis:
 
-[Lihat Data Mentah](./Data%20Hasil/data.csv)
+[Lihat Data Mentah](./Data/data.csv)
 
 ### 2. Data Cleaning dan Preparation
 Setelah data dianalisis, langkah berikutnya adalah melakukan pembersihan data (data cleaning) untuk mengatasi masalah seperti:
