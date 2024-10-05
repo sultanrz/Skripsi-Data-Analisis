@@ -1,0 +1,128 @@
+id;2018;2019;2021;2022;2023;cluster;Judul Buku;Genre Buku;Penulis
+1;1;1;1;0;0;2;5 CM;Drama;Donny Dhirgantoro
+2;1;0;0;0;0;2;9 SUMMERS 10 AUTUMNS;Drama;Iwan Setyawan
+3;1;0;0;0;0;2;A COFFE TIME DIARY;Romance;Riri Ansar
+4;4;3;0;2;0;2;ADA CINTA DI SMA;Romance;Haqi Achmad
+5;1;0;0;0;0;2;ADORABLE MAN LEVELY LADY;Edukasi;Rere
+6;1;0;0;0;0;2;ADORABLE MAN LEVELY LADY;Romance;Suju
+7;5;0;0;0;0;2;AKHLAK XII;Religi;M. Abdul Jalil
+8;0;0;1;0;0;0;AKIDAH AKHLAK KELAS XII;Religi;M. Abdul Jalil
+9;0;0;1;0;0;0;AKIDAH AKHLAK KELAS XI;Religi;M. Abdul Jalil
+10;0;0;1;0;0;0;AKIDAH AKHLAK KELAS X;Religi;M. Abdul Jalil
+11;0;1;0;0;0;0;AKU BAIK BAIK SAJA;Drama;Wisdomhouse Publishing Co
+12;14;7;0;0;0;1;AL QURAN XII;Religi;M. Abdul Jalil
+13;9;6;0;0;0;1;AQIDAH XII;Religi;M. Abdul Jalil
+14;0;1;0;0;0;0;AYAH MENYAYANGIMU;Drama;Kirana Kejora
+15;0;1;0;0;0;0;AYAHKU BUKAN PEMBOHONG;Drama;Tere Liye
+16;1;0;0;0;0;2;AYAT AYAT MOTOVASI;Religi;Abdul Aziz Sa'du
+17;0;1;0;0;0;0;Angels Blood;Fantasy;NALINI SINGGH
+18;3;0;0;3;0;2;BAHASA INDONESIA XII;Umum;Maman Suryaman, Dr, M.Pd
+19;0;0;0;0;1;0;BAHASA INGGRIS KELAS XI;Umum;Otong Setiawan Dj
+20;1;0;0;0;0;2;BASA JAWA X;Umum;Yunika Tri Agustina
+21;0;1;0;0;0;0;BEFORE US;Drama;Robin Wijaya
+22;0;1;0;0;0;0;BIOLOGI 2A;Umum;Endah Sulistyowati
+23;0;1;1;0;0;0;BIOLOGI KELAS X KUR 13;Umum;Endah Sulistyowati
+24;0;0;0;1;0;0;BIOLOGI KELAS XI KUR 13;Umum;Endah Sulistyowati
+25;1;2;0;1;0;0;BIOLOGI XI KUR 13;Umum;Endah Sulistyowati
+26;0;1;0;0;0;0;BIOLOGI XII;Umum;Endah Sulistyowati
+27;0;1;0;0;0;0;BRIGHT ANGEL TIME;Romance;Martha MCPhee
+28;2;1;0;0;0;2;BUKAN 3 IDIOT;Komedi;Boim Lebon
+29;0;1;0;0;0;0;BULAN TERBELAH DI LANGIT AMERIKA;Adventure;hanum salsabiela
+30;1;1;0;0;0;2;BULAN TERE LIYE;Fantasy;Tere Liye
+31;1;0;0;0;0;2;BUNG KARNO;Biografi;BUNG KARNO
+32;0;1;0;0;0;0;BUNGA DI ATAS BATU;Drama;Aesna
+33;0;1;0;0;0;0;CATATAN MUSIM;Romance;Tyas Effendi
+34;2;0;0;0;0;2;CEWEK CEWEK KOS;Edukasi;Yozar F. Amrullah
+35;0;1;0;0;0;0;CHOCO STICK BOYRIEND;Romance;Rani Ramdayani
+36;2;0;0;0;0;2;CINTA DALAM KAIDAH FISIKA;Romance;Nurul Khotimah 
+37;1;0;0;0;0;2;CINTA DI BALIK KERUDUNG;Drama;Mustofa W. Hasyim
+38;1;0;0;0;0;2;DEAD GIRL INLOVE;Romance;Linda Joy 
+39;0;1;0;0;0;0;DELISA TERE LIYE;Religi;Tere Liye
+40;0;0;0;1;0;0;DETIK SOSIOLOGI ;Umum;Poerwanti Hadi Pratiwi
+41;1;0;0;0;0;2;DEVILOVE;Romance;Loryta Chai
+42;0;1;0;0;0;0;DIL3MA;Drama;MIA ARSJAD
+43;1;0;0;0;0;2;DONAL & SALJU;Drama;Walts Disney
+44;1;0;0;0;0;2;DUNIAN SOPHIE;Drama;Jostein Gaarder
+45;0;1;0;0;0;0;EKONOMI XII;Umum;Anik Widiastuti
+46;1;1;0;1;1;2;EKONOMI XII;Umum;Prapto Muntoko, M.Pd
+47;0;0;1;0;0;0;FIKIH KELAS XII;Religi;M. Abdul Jalil
+48;0;1;0;0;0;0;FIKIH KELAS XI;Umum;M. Abdul Jalil
+49;1;0;0;0;0;2;FISIKA 3A;Umum;Marthen Kanginan
+50;0;1;0;0;0;0;FISIKA X DAN XI;Umum;Rahmat Riyadhi
+51;0;1;0;0;0;0;FISIKA XI;Umum;Rahmat Riyadhi
+52;3;1;0;0;0;2;GEOGRAFI XII;Umum;Poerwanti Hadi Pratiwi
+53;0;1;0;0;0;0;Gentle Rogue;Drama;JOHANNA LINDSEY
+54;0;0;0;1;0;0;HABITS HOW TO MASTER;Fantasy;Felix Y. Siauw
+55;0;1;0;0;0;0;HANAKOLABA;Drama;Tere Liye
+56;0;1;0;0;0;0;HPT MUHAMMADIYAH;Religi;Pimpinan pusat muhammadiyah
+57;1;1;0;0;0;2;HUJAN TERE LIYE;Drama;Tere Liye
+58;2;1;0;0;0;2;HUJAN TERE LIYE;Romance;Tere Liye
+59;0;2;0;0;0;0;IBADAH X IBADAH XI (2);Umum;Abbas Arfan
+60;0;1;0;0;0;0;IBADAH XI;Religi;M. Abdul Jalil
+61;1;0;0;0;0;2;IMPIAN CINDERELLA;Romance;Disney
+62;0;1;0;0;0;0;JAKARTA KAFE;Drama;Tatyana
+63;0;0;0;1;0;0;KAMUS BAUSASTRA JAWA;Umum;Yunika Tri Agustina
+64;1;0;0;0;0;2;KEMUH XII;Religi;M. Abdul Jalil
+65;1;0;0;0;0;2;KEMUH XI;Religi;M. Abdul Jalil
+66;1;0;0;0;0;2;KEMUH X;Religi;M. Abdul Jalil
+67;0;0;0;1;0;0;KIMIA KELAS XI;Umum;Michael Purba Supriyana
+68;0;0;0;1;0;0;KIMIA KELAS X;Umum;Michael Purba Supriyana
+69;0;1;0;0;0;0;KIMIA XI KUR 2006;Umum;Michael Purba Supriyana
+70;0;1;0;0;0;0;KIMIA XII KUR 2006;Umum;Michael Purba Supriyana
+71;1;0;0;0;0;2;KIMIA XII;Umum;Anis Dyah Rufaida
+72;1;0;0;0;0;2;KUKAYUH BECAKKU;Drama; Zainal Mursalin
+73;1;0;0;0;0;2;LANKAR PELANGI;Adventure;Andrea Hirata
+74;0;0;0;1;0;0;LASKAR PELANGI;Drama;Andrea Hirata
+75;1;0;0;0;0;2;MAJALAH HORISON;Sastra;Horison
+76;1;0;0;0;0;2;MAJINATTA NOVEL;Drama;-
+77;1;0;0;0;0;2;MATEMATIKA X PEMINATAN;Umum;Nanang Priatna
+78;1;0;0;0;0;2;MATEMATIKA XII SEM 1 2004;Umum;Abdur Rohman
+79;1;0;0;0;0;2;MENEMBUS IMPIAN;Drama;Abidah  El Khalieqy
+80;0;0;0;0;1;0;MENJELAJAH DUNIA BIOLOGI 1;Umum;Endah Sulistyowati
+81;0;1;0;0;0;0;METODE ANTI PERSELINGKUHAN;Edukasi;Nur Fadilah
+82;1;1;0;0;0;2;MIMPI SEJUTA DOLAR;Drama;Alberthiene Endah
+83;0;1;0;0;0;0;MUHAMMAD YAMIN;Biografi;Taufik Adi Susilo
+84;0;2;0;0;0;0;Matematika xii;Umum;Nanang Priatna
+85;0;0;0;0;1;0;NEGERI PARA BEDEBAH;Drama;Tere Liye
+86;0;1;0;0;0;0;PADA SENJA YG MEMBAWAMU PERGI;Drama;Boy chandra
+87;0;1;0;0;0;0;PAI KELAS XI;Umum;M. Abdul Jalil
+88;1;0;0;0;0;2;PELANGI CINTA DI ATAS SAJADAH;Drama;Mohammad A. Syuropati
+89;1;0;0;0;0;2;PERSONALITY PLUS;Edukasi;Littauer
+90;0;1;0;0;0;0;PERSPEKTIF MATEMATIKA X;Umum;Nanang Priatna
+91;1;0;0;0;0;2;PESANTREN IMPIAN;Edukasi;Asma Nadia
+92;0;1;0;0;0;0;PKN KUR 13 KELAS 11;Umum;Nur Wahyu Rachmadi
+93;0;1;0;0;0;0;PROMISE;Drama;Byanca Sastra
+94;0;1;0;1;0;0;PULANG TERE LIYE;Drama;Tere Liye
+95;1;0;0;0;0;2;RADIKUS MAKANKAKUS;Komedi;Raditya Dika
+96;0;1;0;0;0;0;RADITYA DIKA RADIKUS MAKANKAKUS;Komedi;Raditya Dika
+97;0;1;0;0;0;0;RANTAU MUARA ;Romance;A. Fuandi
+98;0;1;0;0;0;0;REMEMBER WHEN;Romance;Winna Effendi
+99;1;1;0;0;0;2;RINDU TERE LIYE;Drama;Tere Liye
+100;1;0;0;0;0;2;SEASONS TO REMEMBER;Drama; Ilana Tan
+101;1;0;0;0;0;2;SEASONS TO REMEMBER;Drama;Ilana Tan
+102;0;1;0;0;0;0;SEBELAS PATRIOT;Drama;Andrea Hirata
+103;0;1;0;0;0;0;SEKETIKA GALAU;Drama;Seketika Galau
+104;0;0;0;0;1;0;SENJA HUJAN DAN CERITA YG TELAH USAI;Drama;Boy chandra
+105;1;0;0;0;0;2;SEPATU DAHLAN;Religi;Khrisna Pabichara
+106;0;0;0;1;0;0;SERI BIOGRAFI ADOLF HITLER;Biografi;M Muhibbuddin
+107;0;0;0;1;0;0;SERI BIOGRAFI SOEHARTO;Biografi;Taufik Adi Susilo
+108;1;2;0;0;0;0;SETELAH HUJAN REDA;Drama;Boy chandra
+109;0;1;0;0;0;0;SEWINDU DEKAT BUNG KARNO;Biografi;Bambang Wijanarko
+110;1;0;0;0;0;2;SI DUL ANAK JAKARTA;Drama;Aman Datuk Madjoindo 
+111;0;1;0;1;1;0;SOSIOLOGI XII;Umum;Poerwanti Hadi Pratiwi
+112;2;1;2;0;0;2;SURGA YG TAK DI RINDUKAN;Drama;Asma Nadia
+113;0;1;0;0;0;0;SURVIVOR;Adventure;Tere Liye
+114;0;1;0;0;0;0;SWEET AND SOUR;Drama;Kania Pradna
+115;0;0;1;0;0;0;TARIKH KELAS X;Umum;M. Abdul Jalil
+116;17;8;3;2;1;1;TARIKH XII;Religi;M. Abdul Jalil
+117;1;0;0;0;0;2;TENTANG PERTEMUAN;Romance;Hidayahtul Husra
+118;1;0;0;0;0;2;TERATAK;Drama;Wan Zalina Razali
+119;2;0;0;0;0;2;THE FALLEN;Romance;Lauren Kate
+120;0;1;0;0;0;0;THE FALSE PRINCESS;Romance;Eilis Oneal
+121;0;1;0;0;0;0;THE PRINCESS IN ME;Romance;Donna Rosamayna
+122;0;1;0;0;0;0;THE RAINBOW GALS;Romance;Nita Lana Fera
+123;0;1;0;0;0;0;TOMODACHI SCHOOL;Drama;Winna Efendi
+124;0;0;0;1;0;0;UN SMA KING USBN 2019;Umum;FORUM TENTOR INDONESIA
+125;1;2;0;0;0;0;WE GOT MARRIED;Romance;SK
+126;2;0;0;0;0;2;WHEN THE HEART CANT MOVE;Romance;Indria
+127;0;1;0;0;0;0;YOUTH ADAGIO;Drama;Alberta Natasia Adji
