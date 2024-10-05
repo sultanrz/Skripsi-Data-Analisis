@@ -145,9 +145,9 @@ Pada tahap ini, dilakukan pemahaman mendalam terhadap dataset yang digunakan, ya
 
 Dataset ini membantu dalam mengidentifikasi buku mana yang sering dipinjam, waktu puncak peminjaman, dan perbedaan preferensi berdasarkan gender dan kelas siswa. Dataset ini adalah langkah awal untuk membangun model clustering dan akan diolah lebih lanjut untuk menemukan pola yang signifikan.
 
-Berikut adalah file **data.xlsx** yang berisi data mentah yang akan dianalisis:
+Berikut adalah file **data.csv** yang berisi data mentah yang akan dianalisis:
 
-- [Download Data Mentah](./Data/data.xlsx)
+- [Lihat Data Mentah](./Data/data.csv)
 
 ### 2. Data Cleaning dan Preparation
 Setelah data dianalisis, langkah berikutnya adalah melakukan pembersihan data (data cleaning) untuk mengatasi masalah seperti:
