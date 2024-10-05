@@ -1,5 +1,4 @@
 No;Nama Peminjam;Identitas Peminjam;Jenis Kelamin;Kelas;Judul Buku;Kode Eksemplar;Jenis Buku;Genre buku;Penulis;Penerbit;Tanggal Pinjam;Pengembalian;Keterangan;tahun peminjaman
-;;;;;;;;;;;;;;
 1;DENATA;Siswa;Laki-laki;XI MIA 1;BULAN TERE LIYE;0788.SMA;Novel;Fantasy;Tere Liye;Gramedia Pustaka;31/07/2018;06/08/2018;KEMBALI;2018
 2;INAYAH;Siswa;Perempuan;XI MIA 1;ADA CINTA DI SMA;KODE KOSONG;Novel;Romance;Haqi Achmad;Gagas Media;31/07/2018;08/08/2018;KEMBALI;2018
 3;RAEYHAN;Siswa;Laki-laki;X MIA 1;HUJAN TERE LIYE;0737.SMA;Novel;Drama;Tere Liye;Gramedia Pustaka;01/08/2018;07/08/2018;KEMBALI;2018
@@ -27,22 +26,22 @@ No;Nama Peminjam;Identitas Peminjam;Jenis Kelamin;Kelas;Judul Buku;Kode Eksempla
 25;WINDI;Siswa;Perempuan;X MIA 1;DEAD GIRL INLOVE;0618.SMA;Novel;Romance;Linda Joy ;Atria ;19/09/2018;;;2018
 26;LUNA;Siswa;Perempuan;X IIS 1;WE GOT MARRIED;0442.SMA;Novel;Romance;SK;Romancious ;20/09/2018;28-Sep-18;KEMBALI;2018
 27;DELA;Siswa;Perempuan;XII IPA 2;TERATAK;20656.SMA;Novel;Drama;Wan Zalina Razali;Dewan Bahasa;20/09/2018;28-Sep-18;KEMBALI;2018
-28;DELA;Siswa;Perempuan;XII IPA 2;KUKAYUH BECAKKU;17299.SMA;Novel;Drama; Zainal Mursalin;Sahala Adidayatama;20/09/2018;28-Sep-18;KEMBALI;2018
+28;DELA;Siswa;Perempuan;XII IPA 2;KUKAYUH BECAKKU;17299.SMA;Novel;Drama;Â Zainal Mursalin;Sahala Adidayatama;20/09/2018;28-Sep-18;KEMBALI;2018
 29;SELLI;Siswa;Perempuan;XI MIA 2;BUNG KARNO;KODE KOSNG;Biografi;Biografi;BUNG KARNO;Penerbit Nuansa;24/09/2018;;;2018
-30;DIAH RATNA;Siswa;Perempuan;XII IPS 1;GEOGRAFI XII;19633.SMA;Paket;Umum;Poerwanti Hadi Pratiwi;Kementrian Pendidikan;24/09/2018;25/10/2018;KEMBALI;2018
+30;DIAH RATNA;Siswa;Perempuan;XII IPS 1;GEOGRAFI XII;19633.SMA;Paket;Umum;PoerwantiÂ HadiÂ Pratiwi;Kementrian Pendidikan;24/09/2018;25/10/2018;KEMBALI;2018
 31;DIAH RATNA;Siswa;Perempuan;XII IPS 1;AQIDAH XII;01406.SMA;Paket;Religi;M. Abdul Jalil;Kementrian Pendidikan;24/09/2018;25/10/2018;KEMBALI;2018
-32;REAHAN ;Siswa;Laki-laki;X MIA 1;BUKAN 3 IDIOT;0414.SMA;Novel;Komedi;Boim Lebon;Indiva Media Kreasi ;25/09/2018;;;2018
+32;REAHAN ;Siswa;Laki-laki;X MIA 1;BUKAN 3 IDIOT;0414.SMA;Novel;Komedi;Boim Lebon;Indiva Media KreasiÂ ;25/09/2018;;;2018
 33;SILVIA;Siswa;Perempuan;XII IPS 3;CINTA DI BALIK KERUDUNG;17109.SMA;Novel;Drama;Mustofa W. Hasyim;Gramedia Pustaka;26/09/2018;28-Sep-18;Kembali;2018
 34;SALMA SAHARA;Siswa;Perempuan;XII IPS 3;RINDU TERE LIYE;0787.SMA;Novel;Drama;Tere Liye;Gramedia Pustaka;26/09/2018;26-Sep-18;KEMBALI;2018
 35;SOFIA MAYSHITA;Siswa;Perempuan;XII IPS 3;PELANGI CINTA DI ATAS SAJADAH;0541.SMA;Novel;Drama;Mohammad A. Syuropati;Syura Mdia Utama;26/09/2018;;;2018
-36;SALWA CYNARA;Siswa;Perempuan;XII IPS 3;MENEMBUS IMPIAN;1990.H;Novel;Drama;Abidah  El Khalieqy;Gramedia Pustaka;26/09/2018;;;2018
+36;SALWA CYNARA;Siswa;Perempuan;XII IPS 3;MENEMBUS IMPIAN;1990.H;Novel;Drama;AbidahÂ Â El Khalieqy;Gramedia Pustaka;26/09/2018;;;2018
 37;YETI;Siswa;Perempuan;XII IPS 3;LANKAR PELANGI;0820.SMA;Novel;Adventure;Andrea Hirata;Bentang Pustaka;26/09/2018;31-Jan-19;KEMBALI;2018
 38;YETI;Siswa;Perempuan;XII IPS 3;CINTA DALAM KAIDAH FISIKA;KODE KOSONG;Novel;Romance;Nurul Khotimah ;DIVA press;26/09/2018;;;2018
 39;VIVIAN;Siswa;Perempuan;XII IPS 3;CEWEK CEWEK KOS;0431.SMA;Novel;Edukasi;Yozar F. Amrullah;PING!!!;26/09/2018;28-Sep-18;Kembali;2018
 40;TIARA KUSUMA;Siswa;Perempuan;XII IPS 3;TENTANG PERTEMUAN;KODE KOSONG;Novel;Romance;Hidayahtul Husra;Gramedia Pustaka;26/09/2018;02/10/2018;KEMBALI;2018
 41;SEKAR;Siswa;Perempuan;XII IPS 3;IMPIAN CINDERELLA;0134.SMA;Novel;Romance;Disney;Gramedia Pustaka;26/09/2018;02/10/2018;KEMBALI;2018
 42;SYIFA;Siswa;Perempuan;XII IPS 3;A COFFE TIME DIARY;0538.SMA;Novel;Romance;Riri Ansar;Zettu;26/09/2018;02/10/2018;KEMBALI;2018
-43;SINDI;Siswa;Perempuan;XII IPS 3;DEVILOVE;KODE KOSONG;Novel;Romance;Loryta Chai;Media Pressindo ;26/09/2018;02/10/2018;KEMBALI;2018
+43;SINDI;Siswa;Perempuan;XII IPS 3;DEVILOVE;KODE KOSONG;Novel;Romance;Loryta Chai;Media PressindoÂ ;26/09/2018;02/10/2018;KEMBALI;2018
 44;SILVIA;Siswa;Perempuan;XII IPS 3;DONAL & SALJU;0290.SMA;Novel;Drama;Walts Disney;GPU;02/10/2018;;;2018
 45;SIFA FAKHRUNNISA;Siswa;Perempuan;XII IPA 2;AL QURAN XII;01534.SMA;Paket;Religi;M. Abdul Jalil;Kementrian Agama;05/10/2018;10/10/2018;KEMBALI;2018
 46;SIFA FAKHRUNNISA;Siswa;Perempuan;XII IPA 2;AQIDAH XII;02423.SMA;Paket;Religi;M. Abdul Jalil;Kementrian Agama;05/10/2019;10/10/2018;KEMBALI;2019
@@ -67,8 +66,8 @@ No;Nama Peminjam;Identitas Peminjam;Jenis Kelamin;Kelas;Judul Buku;Kode Eksempla
 65;AFIFAH KHAYATI;Siswa;Perempuan;XII IPA 1;MAJINATTA NOVEL;0472.SMA;Novel;Drama;;;15/10/2018;10/10/2018;KEMBALI;2018
 66;ADI KURNIYAWAN;Siswa;Laki-laki;X MIA 2;BASA JAWA X;02545.SMA;Paket;Umum;Yunika Tri Agustina;Kementrian Pendidikan;18/10/2018;10/10/2018;;2018
 67;IFAH FAUZIAH;Siswa;Perempuan;XII IPS 2;CEWEK CEWEK KOS;0431.SMA;Novel;Edukasi;Yozar F. Amrullah;PING!!!;22/10/2018;29/10/2018;KEMBALI;2018
-68;ANINDITA;Siswa;Perempuan;XII IPS 1;GEOGRAFI XII;19410.H;Paket;Umum;Poerwanti Hadi Pratiwi;Kementrian Pendidikan;22/10/2018;23/10/2018;KEMBALI;2018
-69;ANINDA LUTFIA;Siswa;Perempuan;XII IPS 1;GEOGRAFI XII;20219.H;Paket;Umum;Poerwanti Hadi Pratiwi;Kementrian Pendidikan;22/10/2018;25/10/2018;KEMBALI;2018
+68;ANINDITA;Siswa;Perempuan;XII IPS 1;GEOGRAFI XII;19410.H;Paket;Umum;PoerwantiÂ HadiÂ Pratiwi;Kementrian Pendidikan;22/10/2018;23/10/2018;KEMBALI;2018
+69;ANINDA LUTFIA;Siswa;Perempuan;XII IPS 1;GEOGRAFI XII;20219.H;Paket;Umum;PoerwantiÂ HadiÂ Pratiwi;Kementrian Pendidikan;22/10/2018;25/10/2018;KEMBALI;2018
 70;MAGASA;Siswa;Laki-laki;XII IPA 1;KEMUH X;KODE KOSONG;Paket;Religi;M. Abdul Jalil;Kementrian Agama;26/10/2018;29/10/2018;KEMBALI;2018
 71;MAGASA;Siswa;Laki-laki;XII IPA 1;AL QURAN XII;KODE KOSONG;Paket;Religi;M. Abdul Jalil;Kementrian Agama;26/10/2019;29/10/2018;KEMBALI;2019
 72;MAGASA;Siswa;Laki-laki;XII IPA 1;KEMUH XI;KODE KOSONG;Paket;Religi;M. Abdul Jalil;Kementrian Agama;26/10/2018;29/10/2018;KEMBALI;2018
@@ -103,7 +102,7 @@ No;Nama Peminjam;Identitas Peminjam;Jenis Kelamin;Kelas;Judul Buku;Kode Eksempla
 101;RAHMA;Siswa;Perempuan;XII IPS 2;ADA CINTA DI SMA;KODE KOSONG;Novel;Romance;Haqi Achmad;Kementrian Agama;27/11/2019;29-Nov-18;Kembali;2019
 102;AULIA;Siswa;Perempuan;XII IPS 2;AL QURAN XII;KODE KOSONG;Paket;Religi;M. Abdul Jalil;Kementrian Agama;27/11/2019;4 DES 18;KEMBALI;2019
 103;AULIA;Siswa;Perempuan;XII IPS 2;TARIKH XII;02128.SMA;Paket;Religi;M. Abdul Jalil;Kementrian Agama;27/11/2019;4 DES 19;KEMBALI;2019
-104;VANIA SALSABILA;Siswa;Perempuan;X MIA 1;SEPATU DAHLAN;0028.SMA;Paket;Religi;Khrisna Pabichara;Noura Book Publising ;27/11/2018;;;2018
+104;VANIA SALSABILA;Siswa;Perempuan;X MIA 1;SEPATU DAHLAN;0028.SMA;Paket;Religi;Khrisna Pabichara;Noura Book PublisingÂ ;27/11/2018;;;2018
 105;FELI;Siswa;Perempuan;XII IPA 1;AL QURAN XII;02162.SMA;Paket;Religi;M. Abdul Jalil;Kementrian Agama;27/11/2018;29-Nov-18;Kembali;2018
 106;FELI;Siswa;Perempuan;XII IPA 1;TARIKH XII;01644.SMA;Paket;Religi;M. Abdul Jalil;Kementrian Agama;27/11/2021;29-Nov-21;Kembali;2021
 107;ARBA AQIFATUL;Siswa;Laki-laki;XII IPA 1;AL QURAN XII;01546.SMA;Paket;Religi;M. Abdul Jalil;Kementrian Agama;27/11/2018;29-Nov-18;Kembali;2018
@@ -165,8 +164,8 @@ No;Nama Peminjam;Identitas Peminjam;Jenis Kelamin;Kelas;Judul Buku;Kode Eksempla
 163;DELLA;Siswa;Perempuan;XII IPA 2;HPT MUHAMMADIYAH;0869.SMA;Paket;Religi;Pimpinan pusat muhammadiyah;Muhammadiyah;30/01/2019;;;2019
 164;FIRZA;Siswa;Laki-laki;X MIA 1;RANTAU MUARA ;0171.SMA;Novel;Romance;A. Fuandi;Gramedia Pustaka;02/02/2019;;;2019
 165;FITRIA ;Siswa;Perempuan;X MIA 2;WE GOT MARRIED;0442.SMA;Novel;Romance;SK;Romancious;02/02/2019;;;2019
-166;AQILA;Siswa;Perempuan;XII MIPA 1;SOSIOLOGI XII;04777.SMA;Paket;Umum;Poerwanti Hadi Pratiwi;Kementrian Pendidikan;05/02/2019;;;2019
-167;AQILA;Siswa;Perempuan;XII MIPA 1;GEOGRAFI XII;04827.SMA;Paket;Umum;Poerwanti Hadi Pratiwi;Kementrian Pendidikan;05/02/2019;;;2019
+166;AQILA;Siswa;Perempuan;XII MIPA 1;SOSIOLOGI XII;04777.SMA;Paket;Umum;PoerwantiÂ HadiÂ Pratiwi;Kementrian Pendidikan;05/02/2019;;;2019
+167;AQILA;Siswa;Perempuan;XII MIPA 1;GEOGRAFI XII;04827.SMA;Paket;Umum;PoerwantiÂ HadiÂ Pratiwi;Kementrian Pendidikan;05/02/2019;;;2019
 168;VANIA;Siswa;Perempuan;XI MIA1;YOUTH ADAGIO;0677.SMA;Novel;Drama;Alberta Natasia Adji;Gramedia Pustaka;15/07/2019;;;2019
 169;NAJMI;Siswa;Perempuan;XI IIS 2;RADITYA DIKA RADIKUS MAKANKAKUS;Kode Eksemplar;Novel;Komedi;Raditya Dika;Gagas Media;17/07/2019;18/07/2019;KEMBALI;2019
 170;NAJMI;Siswa;Perempuan;XI IIS 2;PADA SENJA YG MEMBAWAMU PERGI;0755.SMA;Novel;Drama;Boy chandra;Gagas Media;18/07/2019;19/07/2019;KEMBALI;2019
@@ -237,11 +236,11 @@ No;Nama Peminjam;Identitas Peminjam;Jenis Kelamin;Kelas;Judul Buku;Kode Eksempla
 235;RIZAL AMAR;Siswa;Laki-laki;XII IPA;SERI BIOGRAFI ADOLF HITLER;;Biografi;Biografi;M Muhibbuddin;Araska;14/02/2022;07-Mar-22;KEMBALI;2022
 236;ILHAM;ALUMNI;Laki-laki;Luar;KAMUS BAUSASTRA JAWA;R209;Paket;Umum;Yunika Tri Agustina;Kementrian Pendidikan;01/03/2022;;;2022
 237;ERA FANIGERA;Siswa;Perempuan;XII IPS;BAHASA INDONESIA XII;Kode Eksemplar;Paket;Umum;Maman Suryaman, Dr, M.Pd;Kementrian Pendidikan;04/03/2022;;KEMBALI;2022
-238;AURIA NADA;Siswa;Perempuan;XII IPS;SOSIOLOGI XII;19192;Paket;Umum;Poerwanti Hadi Pratiwi;Kementrian Pendidikan;04/03/2023;;KEMBALI;2023
+238;AURIA NADA;Siswa;Perempuan;XII IPS;SOSIOLOGI XII;19192;Paket;Umum;PoerwantiÂ HadiÂ Pratiwi;Kementrian Pendidikan;04/03/2023;;KEMBALI;2023
 239;AURIA NADA;Siswa;Perempuan;XII IPS;EKONOMI XII;04742;Paket;Umum;Prapto Muntoko, M.Pd;Kementrian Pendidikan;04/03/2023;;KEMBALI;2023
 240;MEZALLUNA;Siswa;Perempuan;XII IPS;SURGA YG TAK DI RINDUKAN;KODE KOSONG;Novel;Drama;Asma Nadia;Asma Nadia Jakarta;04/03/2018;;KEMBALI;2018
 241;MEZALLUNA;Siswa;Perempuan;XII IPS;BAHASA INDONESIA XII;Kode Eksemplar;Paket;Umum;Maman Suryaman, Dr, M.Pd;Kementrian Pendidikan;04/03/2022;07-Mar-22;KEMBALI;2022
 242;ADINDA;Siswa;Perempuan;XII IPS;BAHASA INDONESIA XII;Kode Eksemplar;Paket;Umum;Maman Suryaman, Dr, M.Pd;Kementrian Pendidikan;04/03/2022;24-Mar-22;KEMBALI;2022
-243;ERA FANIGERA;Siswa;Perempuan;XII IPS;SOSIOLOGI XII;04772;Paket;Umum;Poerwanti Hadi Pratiwi;Kementrian Pendidikan;15/03/2022;;;2022
-244;ERA FANIGERA;Siswa;Perempuan;XII IPS;DETIK SOSIOLOGI ;Kode Eksemplar;Paket;Umum;Poerwanti Hadi Pratiwi;Kementrian Pendidikan;15/03/2022;;;2022
+243;ERA FANIGERA;Siswa;Perempuan;XII IPS;SOSIOLOGI XII;04772;Paket;Umum;PoerwantiÂ HadiÂ Pratiwi;Kementrian Pendidikan;15/03/2022;;;2022
+244;ERA FANIGERA;Siswa;Perempuan;XII IPS;DETIK SOSIOLOGI ;Kode Eksemplar;Paket;Umum;PoerwantiÂ HadiÂ Pratiwi;Kementrian Pendidikan;15/03/2022;;;2022
 245;TRI RAHAYU;PPL UAD;Perempuan;Luar;MENJELAJAH DUNIA BIOLOGI 1;02495.SMA;Paket;Umum;Endah Sulistyowati;Kementrian Pendidikan;12/05/2023;26/05/2023;;2023
