@@ -147,7 +147,7 @@ Dataset ini membantu dalam mengidentifikasi buku mana yang sering dipinjam, wakt
 
 Berikut adalah file **data.csv** yang berisi data mentah yang akan dianalisis:
 
-- [Lihat Data Mentah](./Data/data.csv)
+[Lihat Data Mentah](./Data%20Hasil/data.csv)
 
 ### 2. Data Cleaning dan Preparation
 Setelah data dianalisis, langkah berikutnya adalah melakukan pembersihan data (data cleaning) untuk mengatasi masalah seperti:
@@ -172,7 +172,7 @@ Algoritma K-Means bekerja dengan menghitung jarak antara setiap titik data (buku
 
 Berikut adalah file hasil clustering:
 
-- [Download Hasil Clustering](./Data%20Hasil/penentuan_cluster.csv)
+[Lihat Penentuan Cluster](./Data%20Hasil/penentuan_cluster.csv)
 
 ### 4. Evaluasi Cluster
 Setelah hasil clustering diperoleh, langkah selanjutnya adalah mengevaluasi kualitas cluster yang terbentuk. Beberapa metrik evaluasi yang digunakan meliputi:
