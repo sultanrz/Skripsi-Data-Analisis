@@ -160,7 +160,7 @@ Pada tahap ini, data diubah menjadi bentuk yang siap digunakan untuk analisis le
 
 Berikut adalah hasil dari proses pembersihan dan transformasi yang disimpan dalam file **Hasil Transformasi.csv**:
 
-[Download Hasil Transformasi](./Data%20Hasil/Hasil%20Transformasi.csv)
+[Download Hasil Transformasi](./Data%20Hasil/Hasil%20transformasi.csv)
 
 ### 3. Hasil Clustering
 Setelah data dibersihkan dan dipersiapkan, metode **K-Means Clustering** diterapkan untuk membagi buku ke dalam 3 cluster, yaitu:
